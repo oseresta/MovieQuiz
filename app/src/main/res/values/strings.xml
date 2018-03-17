@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Quiz</string>
+    <string name="question1">Which film won the maximum number of Oscar Award?</string>
+    <string name="question2">Which actress has won the maximum number of Best Actress Oscar Award?</string>
+    <string name="question3">Which actor has won the maximum number of Best Actor Oscar Award?</string>
+    <string name="question4">Which male or female actor has the maximum number of Oscar Nomination?</string>
+    <string name="question5">Which director has won the maximum number of Oscar Award?</string>
+    <string name="btnText">Submit</string>
+</resources>

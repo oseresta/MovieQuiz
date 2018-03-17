@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba de película</string>
+    <string name="question1">Qué película ganó el número máximo de premios Oscar?</string>
+    <string name="question2">Qué actriz ha ganado el máximo número de premios Oscar a la mejor actriz?</string>
+    <string name="question3">Qué actor ha ganado el máximo número de premios Óscar al mejor actor?</string>
+    <string name="question4">Qué actor masculino o femenino tiene el número máximo de nominación al Oscar?</string>
+    <string name="question5">Qué director ha ganado la cantidad máxima de premios Oscar?</string>
+    <string name="btnText">Enviar</string>
+</resources>
